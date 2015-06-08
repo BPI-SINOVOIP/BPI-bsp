@@ -1,11 +1,14 @@
-sunxi-bsp
+BPI-bsp
 =========
 
 Getting Started
 ---------------
 
-1. Choose a board doing `./configure my_board`, or `./configure` to see
-   the list of supported ones.
+1. Choose a board doing:
+   For BananaPI-M1:
+   `./configure BananaPi_M1`,
+   For BananaPI-M1-Plus:
+   `./configure BananaPi_M1_Plus`.
 
 2. Run 'make' to build hwpack or 'make help' to list available targets
 
